@@ -21,7 +21,7 @@ repository               : "Roozbeh-Bazargani/Roozbeh-Bazargani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "roozbeh.jpeg"
   name             : "Roozbeh Bazargani"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
