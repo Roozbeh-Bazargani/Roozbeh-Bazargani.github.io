@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A.Sc. in Electrical and Computer Engineering, University of British Columbia, 2023
+* B.S. in Computer Science, Amirkabir University of Technology, 2021
+* B.S. in Electrical Engineering, Amirkabir University of Technology, 2021
 
 Work experience
 ======
@@ -45,12 +45,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
