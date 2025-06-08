@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "roozbeh.jpeg"
   name             : "Roozbeh Bazargani"
-  pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Applied Scientist |\n Master of Applied Science"
+  pronouns         : # "he/his"
+  bio              : "Machine Learning Applied Scientist"
   location         : "Vancouver, BC, Canada"
-  employer         : "Prenuvo / UBC"
+  employer         : "Prenuvo"
   uri              : # URL
   email            : "roozbehbazargani@gmail.com" 
 
