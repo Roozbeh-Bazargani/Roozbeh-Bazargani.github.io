@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Roozbeh's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Roozbeh"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "roozbeh.jpeg"
   name             : "Roozbeh Bazargani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Machine Learning Applied Scientist |\n Master of Applied Science"
   location         : "Vancouver, BC, Canada"
   employer         : "Prenuvo / UBC"
   uri              : # URL
